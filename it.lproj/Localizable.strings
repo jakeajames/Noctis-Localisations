@@ -2,5 +2,5 @@
     <key>DARK_MODE_ON</key>
     <string>Modalità notte: Attiva</string>
     <key>DARK_MODE_OFF</key>
-    <string>Modalità notte: Inattva</string>
+    <string>Modalità notte: No</string>
 </dict>
